@@ -1,4 +1,5 @@
 import 'core-js/web/url-search-params';
+import 'core-js/web/url';
 import React from 'react';
 
 function _typeof(obj) {
